@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Comic+Neue&display=swap");
+
+body {
+    background-color: #222;
+}
+h1 {
+    font-family: "Comic Neue", cursive;
+    font-size: 55px;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    animation: grow 5s linear 3;
+    margin: -50px;
+}
+
+@keyframes grow {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(3);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
