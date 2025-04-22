@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Overview
 
 # I am trying to expound my learning while retaining some of the programming languages that I do know. for me if I don't keep up on the languages I have knowledge in I will forget and lose touch and have to relearn it again.
@@ -23,6 +22,4 @@
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](http://url.link.goes.here)
 * [Web Site Name](http://url.link.goes.here)
-=======
-# HelloWorld
->>>>>>> 11e9c5992e79b3be371dbd0fa6db9ca0d7b24668
+
