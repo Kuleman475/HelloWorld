@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Overview
 
 # I am trying to expound my learning while retaining some of the programming languages that I do know. for me if I don't keep up on the languages I have knowledge in I will forget and lose touch and have to relearn it again.
@@ -8,9 +7,8 @@
 
 # My purpose for creating this software is to make sure that vs code is running and working like it should be but also for me to stay freshened up on programming languages and using Javascript to dynamically add to a web page. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World](https://www.youtube.com/watch?v=SUmg8NPswg0)
 
 # Development Environment
 
@@ -21,8 +19,6 @@
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
-=======
-# HelloWorld
->>>>>>> 11e9c5992e79b3be371dbd0fa6db9ca0d7b24668
+* [W3 Schools](https://www.w3schools.com/js/js_output.asp)
+* [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-add-html-elements-dynamically-using-javascript/)
+
